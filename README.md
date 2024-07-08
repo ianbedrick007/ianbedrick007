@@ -1,7 +1,5 @@
 ## Hello World! My name's Ian :) 👋
-# and i'm an entry level data scientist 👨‍💻 with a background in petroleum engineering![Tf2Tf2engineerGIF](https://github.com/ianbedrick007/ianbedrick007/assets/113555634/11fc3abe-4130-4202-b847-ba6612dfb01a)
-. 
-<!--
+# and i'm an entry level data scientist 👨‍💻 with a background in petroleum engineering⛽💹 
 **ianbedrick007/ianbedrick007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
