@@ -1,13 +1,11 @@
-[![MasterHead](https://www.pinterest.co.uk/pin/typical-day-as-a-software-developer-gif--419257046534709196/)](https://rishavchanda.io)
+[![MasterHead](https://www.pinterest.co.uk/pin/typical-day-as-a-software-developer-gif--419257046534709196/)]
 
 <h1 align="center">Hello World👋, I'm Ian</h1>
-<h3 align="center">a growing 🪴 data scientist 👨‍💻 with a background in petroleum from 🇬🇭engineering⛽💹 from Ghana</h3>
+<h3 align="center">a growing 🪴 data scientist 👨‍💻 with a background in petroleum from engineering⛽ from 🇬🇭 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.co.uk/pin/946389309180412070/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianbedrick007&label=Profile%20views&color=0e75b6&style=flat" alt="ianbedrick007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianbedrick007" alt="ianbedrick007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/this_is_ian__" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_ian__?logo=twitter&style=for-the-badge" alt="this_is_ian__" /></a> </p>
 
