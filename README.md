@@ -1,9 +1,9 @@
-[![MasterHead](https://www.pinterest.co.uk/pin/typical-day-as-a-software-developer-gif--419257046534709196/)]
+
 
 <h1 align="center">Hello World👋, I'm Ian</h1>
 <h3 align="center">a growing 🪴 data scientist 👨‍💻 with a background in petroleum from engineering⛽ from 🇬🇭 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.co.uk/pin/946389309180412070/">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianbedrick007&label=Profile%20views&color=0e75b6&style=flat" alt="ianbedrick007" /> </p>
 
